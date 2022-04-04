@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_alioth.mk
+    $(LOCAL_DIR)/evolution_alioth.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_alioth-user \
-    xtended_alioth-userdebug \
-    xtended_alioth-eng
+    evolution_alioth-user \
+    evolution_alioth-userdebug \
+    evolution_alioth-eng

@@ -17,6 +17,10 @@ LOCAL_OVERRIDES_PACKAGES := \
     Ornament \
     SafetyHubPrebuilt \
     ScribePrebuilt \
+    Tycho \
+    Velvet \
+    FilesPrebuilt \
+    Papers \
     Showcase \
     Snap \
     SprintDM \
