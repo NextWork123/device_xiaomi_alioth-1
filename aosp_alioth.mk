@@ -14,6 +14,9 @@ WITH_GAPPS := true
 TARGET_INCLUDE_WIFI_EXT := true
 TARGET_BOOT_ANIMATION_RES := 1440
 
+# Lawnchair
+$(call inherit-product, vendor/lawnchair/lawnchair.mk)
+
 # Project Elixir Official Stuff
 Elixir_MAINTAINER := NextWorks 
 IS_PHONE := true
